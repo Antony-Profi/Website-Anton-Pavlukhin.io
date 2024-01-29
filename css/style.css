@@ -764,6 +764,14 @@ footer .animate.scroll {
 
 
 /* BREAKPOINTS */
+@media (max-width: 1300px) {
+    .home img {
+        bottom: 20%;
+        left: 58%;
+        width: 38%;
+    }
+}
+
 @media (max-width: 1200px) {
     html {
         font-size: 12px;
@@ -792,7 +800,23 @@ footer .animate.scroll {
     }
 
     .home {
-        padding: 0 4%;
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 5.2rem;
+        margin-top: 75%;
+    }
+
+    .home img {
+        bottom: 12%;
+        left: 19%;
+        width: 60%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -70%;
     }
 
     .footer {
@@ -804,11 +828,51 @@ footer .animate.scroll {
     .animate.home-img {
         width: 55%;
     }
+
+    .home {
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 5.2rem;
+        margin-top: 75%;
+    }
+
+    .home img {
+        bottom: 14%;
+        left: 15%;
+        width: 65%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -65%;
+    }
 }
 
 @media (max-width: 768px) {
     .header {
         background: var(--bg-color);
+    }
+
+    .home {
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 5.1rem;
+        margin-top: 75%;
+    }
+
+    .home img {
+        bottom: 20%;
+        left: 15%;
+        width: 65%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -60%;
     }
 
     #menu-icon {
@@ -872,6 +936,28 @@ footer .animate.scroll {
     }
 }
 
+@media (max-width: 750px) {
+    .home {
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 5.1rem;
+        margin-top: 75%;
+    }
+
+    .home img {
+        bottom: 26%;
+        left: 15%;
+        width: 65%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -50%;
+    }
+}
+
 @media (max-width: 690px) {
     .home {
         padding: 20% 4%;
@@ -915,6 +1001,7 @@ footer .animate.scroll {
         bottom: -35%;
     }
 }
+
 @media (max-width: 550px) {
     .home-sci {
         width: 160px;
