@@ -849,7 +849,7 @@ footer .animate.scroll {
     .navbar.active .active-nav {
         left: 0;
         transition-delay: .25s;
-}
+    }
 
     .navbar a {
         display: block;
@@ -872,6 +872,27 @@ footer .animate.scroll {
     }
 }
 
+@media (max-width: 600px) {
+    .home {
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 4.1rem;
+        margin-top: 75%;
+    }
+
+    .home img {
+        bottom: 41%;
+        left: 18%;
+        width: 60%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -33%;
+    }
+}
 
 @media (max-width: 520px) {
     html {
@@ -896,7 +917,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        bottom: -8%;
+        bottom: -14%;
     }
 
     .home-sci a {
@@ -915,6 +936,11 @@ footer .animate.scroll {
         bottom: 50%;
         left: 18%;
         width: 62%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -10%;
     }
 
     .education {
@@ -949,6 +975,11 @@ footer .animate.scroll {
 
     .home-content h1 {
         font-size: 5rem;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -10%;
     }
 }
 
