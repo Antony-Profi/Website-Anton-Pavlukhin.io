@@ -765,10 +765,24 @@ footer .animate.scroll {
 
 /* BREAKPOINTS */
 @media (max-width: 1300px) {
+    .home {
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 5.2rem;
+        margin-top: 75%;
+    }
+
     .home img {
-        bottom: 20%;
-        left: 58%;
-        width: 38%;
+        bottom: 9%;
+        left: 22%;
+        width: 56%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -70%;
     }
 }
 
@@ -865,14 +879,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 20%;
+        bottom: 40%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -60%;
+        bottom: -19%;
     }
 
     #menu-icon {
