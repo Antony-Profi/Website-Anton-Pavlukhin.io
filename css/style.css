@@ -976,7 +976,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        bottom: -40%;
+        bottom: -65%;
     }
 }
 
@@ -1005,7 +1005,7 @@ footer .animate.scroll {
 @media (max-width: 550px) {
     .home-sci {
         width: 160px;
-        bottom: -28%;
+        bottom: -47%;
     }
 }
 
@@ -1032,7 +1032,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        bottom: -14%;
+        bottom: -21%;
     }
 
     .home-sci a {
@@ -1055,7 +1055,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        bottom: -19%;
+        bottom: -34%;
     }
 
     .education {
