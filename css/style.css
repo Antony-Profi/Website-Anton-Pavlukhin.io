@@ -872,6 +872,28 @@ footer .animate.scroll {
     }
 }
 
+@media (max-width: 690px) {
+    .home {
+        padding: 20% 4%;
+    }
+
+    .home-content h1 {
+        font-size: 4.1rem;
+        margin-top: 75%;
+    }
+
+    .home img {
+        bottom: 28%;
+        left: 15%;
+        width: 65%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -40%;
+    }
+}
+
 @media (max-width: 600px) {
     .home {
         padding: 20% 4%;
@@ -890,7 +912,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        bottom: -52%;
+        bottom: -35%;
     }
 }
 
