@@ -915,6 +915,12 @@ footer .animate.scroll {
         bottom: -35%;
     }
 }
+@media (max-width: 550px) {
+    .home-sci {
+        width: 160px;
+        bottom: -28%;
+    }
+}
 
 @media (max-width: 520px) {
     html {
