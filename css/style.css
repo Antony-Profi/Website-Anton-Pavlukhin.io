@@ -802,6 +802,17 @@ footer .animate.scroll {
     html {
         font-size: 12px;
     }
+
+    .home img {
+        bottom: 41%;
+        left: 19%;
+        width: 60%;
+    }
+
+    .home-sci {
+        width: 160px;
+        bottom: -7%;
+    }
 }
 
 @media (max-width: 991px) {
@@ -823,14 +834,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 12%;
+        bottom: 45%;
         left: 19%;
         width: 60%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: 45%;
+        /* bottom: 45%; */
     }
 
     .footer {
@@ -961,14 +972,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 26%;
+        bottom: 50%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -90%;
+        top: 94%;
     }
 }
 
