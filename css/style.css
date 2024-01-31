@@ -784,6 +784,11 @@ footer .animate.scroll {
         width: 160px;
         bottom: -70%;
     }
+
+    .footer-text,
+    .footer-iconTop {
+        position: initial;
+    }
 }
 
 @media (max-width: 1200px) {
