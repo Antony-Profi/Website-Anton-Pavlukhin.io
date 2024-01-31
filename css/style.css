@@ -853,14 +853,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        /* bottom: 14%; */
+        bottom: 45%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        /* bottom: -65%; */
+        bottom: -5%;
     }
 }
 
