@@ -869,9 +869,9 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 45%;
-        left: 15%;
-        width: 65%;
+        bottom: 42%;
+        left: 16%;
+        width: 70%;
     }
 
     .home-sci {
@@ -977,14 +977,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 45%;
+        bottom: 42%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        top: 100%;
+        top: 110%;
     }
 }
 
