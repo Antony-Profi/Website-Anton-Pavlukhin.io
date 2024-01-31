@@ -869,14 +869,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 42%;
+        bottom: 44%;
         left: 16%;
         width: 70%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -5%;
+        bottom: -25%;
     }
 }
 
@@ -895,14 +895,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 42%;
-        left: 15%;
-        width: 65%;
+        bottom: 44%;
+        left: 16%;
+        width: 70%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -18%;
+        bottom: -25%;
     }
 
     #menu-icon {
