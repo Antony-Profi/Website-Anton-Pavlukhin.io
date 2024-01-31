@@ -785,10 +785,10 @@ footer .animate.scroll {
         bottom: -70%;
     }
 
-    .footer-text,
+    /* .footer-text,
     .footer-iconTop {
         position: initial;
-    }
+    } */
 }
 
 @media (max-width: 1200px) {
@@ -895,14 +895,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 50%;
+        bottom: 47%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: 2%;
+        bottom: -7%;
     }
 
     #menu-icon {
