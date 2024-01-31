@@ -879,14 +879,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: -5%;
+        bottom: 5%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -19%;
+        bottom: -95%;
     }
 
     #menu-icon {
