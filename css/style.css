@@ -775,14 +775,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 5%;
+        bottom: -5%;
         left: 22%;
         width: 45%;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -70%;
+        bottom: -100%;
     }
 
     /* .footer-text,
@@ -977,14 +977,14 @@ footer .animate.scroll {
     }
 
     .home img {
-        bottom: 50%;
+        bottom: 45%;
         left: 15%;
         width: 65%;
     }
 
     .home-sci {
         width: 160px;
-        top: 94%;
+        top: 100%;
     }
 }
 
