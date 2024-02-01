@@ -1038,7 +1038,7 @@ footer .animate.scroll {
         top: 112%;
     }
 }
-
+/* Планшет */
 @media (max-width: 520px) {
     html {
         font-size: 50%;
@@ -1062,7 +1062,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 122%;
+        top: 135%;
     }
 
     .home-sci a {
