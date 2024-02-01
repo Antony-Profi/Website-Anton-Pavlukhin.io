@@ -1119,12 +1119,13 @@ footer .animate.scroll {
     }
 
     .home-content h1 {
+        margin-top: 75%;
         font-size: 5rem;
     }
 
     .home-sci {
         width: 160px;
-        bottom: -20%;
+        top: 118%;
     }
 }
 
