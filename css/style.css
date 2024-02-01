@@ -1038,7 +1038,7 @@ footer .animate.scroll {
         top: 112%;
     }
 }
-
+/* Планшет */
 @media (max-width: 520px) {
     html {
         font-size: 50%;
