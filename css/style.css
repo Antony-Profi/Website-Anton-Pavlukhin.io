@@ -986,10 +986,6 @@ footer .animate.scroll {
         width: 160px;
         bottom: -20%;
     }
-
-    .animate {
-        height: 30%;
-    }
 }
 
 @media (max-width: 690px) {
