@@ -984,7 +984,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 150%;
+        top: 90%;
     }
 }
 
@@ -1006,7 +1006,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        bottom: -75%;
+        top: 128%;
     }
 }
 
@@ -1062,7 +1062,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 112%;
+        top: 95%;
     }
 
     .home-sci a {
