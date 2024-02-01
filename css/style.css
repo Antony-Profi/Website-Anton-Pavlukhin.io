@@ -984,7 +984,11 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        /* top: 157%; */
+        top: 95%;
+    }
+
+    .animate {
+        height: 30%;
     }
 }
 
