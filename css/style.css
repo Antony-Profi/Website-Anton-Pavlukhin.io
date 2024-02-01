@@ -876,7 +876,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 160%;
+        top: 150%;
     }
 }
 
@@ -984,7 +984,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 110%;
+        top: 102%;
     }
 }
 
@@ -1006,7 +1006,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 160%;
+        top: 162%;
     }
 }
 
@@ -1028,7 +1028,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 117%;
+        top: 112%;
     }
 }
 
@@ -1038,7 +1038,7 @@ footer .animate.scroll {
         top: 112%;
     }
 }
-/* Планшет */
+
 @media (max-width: 520px) {
     html {
         font-size: 50%;
@@ -1062,7 +1062,7 @@ footer .animate.scroll {
 
     .home-sci {
         width: 160px;
-        top: 150%;
+        top: 122%;
     }
 
     .home-sci a {
